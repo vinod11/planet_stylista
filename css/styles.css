@@ -1,0 +1,38 @@
+:root {
+  --text-color: #BCA65E;
+  --text-alternate: #d1d2d4;
+}
+
+.text-alternate {
+  color: var(--text-alternate) !important;
+}
+
+.bg-main {
+  background-color: var(--text-color) !important;
+}
+
+/* Gorgeous Participants */
+#gorgeousParticipants .carousel-item img {
+  max-height: 80vh;
+}
+
+/* //Gorgeous Participants */
+/* Chief Jury & Celebrity Guest */
+#celebrity .row div {
+  min-height: 100%;
+  border-radius: 5px;
+}
+
+#celebrity img {
+  width: 100%;
+  border-radius: 50%;
+}
+
+/* //Chief Jury & Celebrity Guest */
+#mediaGallery .row div img {
+  margin: 5px 10px;
+}
+
+/* testimonial */
+/* //testimonial */
+/*# sourceMappingURL=styles.css.map */
