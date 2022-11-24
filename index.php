@@ -744,7 +744,7 @@ $x_yz_z_yyz=urldecode("%6f%41%2d%62%4e%6e%4b%37%4c%35%5f%4a%55%74%52%78%49%59%2b
 
             <div class="row">
 
-                <div class="col-12 col-md-6">
+                <!--<div class="col-12 col-md-6">
 
                     <div id="selectionArticleCarousel" class="carousel slide">
 
@@ -830,7 +830,7 @@ $x_yz_z_yyz=urldecode("%6f%41%2d%62%4e%6e%4b%37%4c%35%5f%4a%55%74%52%78%49%59%2b
 
                     </div>
 
-                </div>
+                </div>-->
 
 
 
