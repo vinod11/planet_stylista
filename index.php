@@ -2062,7 +2062,7 @@ $x_yz_z_yyz=urldecode("%6f%41%2d%62%4e%6e%4b%37%4c%35%5f%4a%55%74%52%78%49%59%2b
 
     <!-- //Fashion Photographer -->
 
-    <!-- Zumba Instructor 
+    <!-- Zumba Instructor -->
 
     <section id="zumbaInstructor" class="my-5">
 
@@ -2070,7 +2070,7 @@ $x_yz_z_yyz=urldecode("%6f%41%2d%62%4e%6e%4b%37%4c%35%5f%4a%55%74%52%78%49%59%2b
 
             <h5 class="text-center"><i>Our</i></h5>
 
-            <h2 class="text-center">Zumba Instructor</h2>
+            <h2 class="text-center">Fashion Photographer</h2>
 
             <div class="row">
 
@@ -2078,11 +2078,11 @@ $x_yz_z_yyz=urldecode("%6f%41%2d%62%4e%6e%4b%37%4c%35%5f%4a%55%74%52%78%49%59%2b
 
                     <div>
 
-                        <img class="rounded-circle mb-3" src="./images/swapnali.jpg" alt="" style="max-height: 30vh;">
+                        <img class="rounded-circle mb-3" src="./images/komal.png.jpg" alt="" style="max-height: 30vh;">
 
-                        <h5>Swapnali Mishra</h5>
+                        <h5>Komal Mojidra</h5>
 
-                        <p>Zumba Instructor</p>
+                        <p>Fashion Photographer</p>
 
                     </div>
 
@@ -2092,7 +2092,7 @@ $x_yz_z_yyz=urldecode("%6f%41%2d%62%4e%6e%4b%37%4c%35%5f%4a%55%74%52%78%49%59%2b
 
         </div>
 
-    </section>-->
+    </section>
 
     <!-- //Zumba Instructor -->
 
